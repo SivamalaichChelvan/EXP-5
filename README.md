@@ -29,6 +29,7 @@ PROCEDURE:
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 
 V-I & REGULATION CHARACTERISTICS:
+
 <img width="697" height="803" alt="Screenshot 2025-10-22 130135" src="https://github.com/user-attachments/assets/d902f197-8b6e-4b1c-84b9-2ba999997fbe" />
 TABULATION:
 ![exp 5 1](https://github.com/user-attachments/assets/c22590c1-2ee8-4e0c-9f02-11c8f9677cdd)

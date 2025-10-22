@@ -31,9 +31,13 @@ PROCEDURE:
 V-I & REGULATION CHARACTERISTICS:
 
 <img width="697" height="803" alt="Screenshot 2025-10-22 130135" src="https://github.com/user-attachments/assets/d902f197-8b6e-4b1c-84b9-2ba999997fbe" />
+
 TABULATION:
+
 ![exp 5 1](https://github.com/user-attachments/assets/c22590c1-2ee8-4e0c-9f02-11c8f9677cdd)
+
 MODEL GRAPH:
+
 ![exp 5 2](https://github.com/user-attachments/assets/da971cba-9e83-4f93-99b3-254375ee45ee)
 
 PRECAUTIONS:
